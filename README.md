@@ -1,19 +1,16 @@
-### Olá! Sou o Alex Silva 👋
+### HI! I'm Alex Silva 👋
 
 <!--
-**alexcssilva/alexcssilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning at Trybe
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning at Trybe
+
+
 
 <!-- DIAGNÓSTICO - DARK-->
 
@@ -32,7 +29,7 @@ Here are some ideas to get you started:
 <!-- PORTFÓLIO --> 
 <br><br>
 	
-  #### Linguagens que estou me desenvolvendo
+  #### Languages I'm developing
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Alex-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
@@ -42,7 +39,7 @@ Here are some ideas to get you started:
   
 <br><br>
 	
-#### Pŕoximos Frameworks e Linguagens que irei me desenvolver
+#### Next Frameworks and Languages I will develop
   
 <div style="display: inline_block"><br>
   <img align="center" alt="ALex-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
