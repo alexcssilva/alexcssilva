@@ -74,7 +74,6 @@
 </div>
 
 <br>
-<br>
 
 #### Skills I Will Learn:
 
