@@ -22,7 +22,7 @@
 <br>
 
  - 📍 From SP/São Paulo 🇧🇷
- - 📚 Student at <a href="https://www.betrybe.com/">**Trybe**</a>
+ - 📚 Software Development Student at <a href="https://www.betrybe.com/">**Trybe**</a>
 
 <br>
 
