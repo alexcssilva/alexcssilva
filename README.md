@@ -9,21 +9,22 @@
 -->
 
 <!-- APRESENTAÇÃO-->
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=AlexSilva%20&fontAlignY=40&color=gradient)
 
-# Hi! I'm Alex Silva 👋🏼
-
+<h1 align="center"> Olá! Eu sou o Alex </h1>
 <br>
 <br>
 
-<h2 align="center"> Welcome to my profile! 😊🖖🏼 </h2>
+<h2 align="center"> Seja bem-vindo ao meu perfil 😊🖖🏼 </h2>
   
-<div align="center"><h4>💭 ***"I don't do the right thing because of the result, I do it because it's the right thing to do."***</h4></div>
+<div align="center"><h4>💭 ***"Eu não faço a coisa certa por causa do resultado, eu faço porque é a coisa certa a se fazer."***</h4></div>
 
 <br>
 
- - 📍 From SP/São Paulo 🇧🇷
- - 📚 Software Development Student at <a href="https://www.betrybe.com/">**Trybe**</a>
-
+ - 📍 SP/São Paulo 🇧🇷
+ - 📚 Estudante de Desenvolvimento FUll Stack na escola <a href="https://www.betrybe.com/">**Trybe**</a>
+ - ♋ 33 anos
+ - ⚽ Amante de exercícios físicos como academia, bicicleta e futebol
 <br>
 
 <!-- DIAGNÓSTICO - DARK-->
@@ -41,7 +42,7 @@
 
 <!-- REDE SOCIAIS --> 
 
-<h2 align="center">Reach me out 👇🏼</h2>
+<h2 align="center">Leia-me 👇🏼</h2>
 
 <div align="center"><br>
   <a href="linkedin.com/in/alex-silva-396bb9130" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
