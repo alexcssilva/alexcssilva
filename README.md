@@ -23,14 +23,16 @@
 
  - 📍 SP/São Paulo 🇧🇷
  - 📚 Formado em Desenvolvimento Full Stack na escola <a href="https://www.betrybe.com/">**Trybe**</a>
- - ♋ 34 anos
- - ⚽ Amante de exercícios físicos como academia, bicicleta e futebol
+ - ⚖️ 34 anos
+ - ⚽ Gosto de exercícios físicos ao ar livre, academia, bicicleta e futebol.
 <br>
 
 <!-- DIAGNÓSTICO - DARK-->
 
  <div style="display: inline" align="center">
-  
+  <a href="https://github.com/alexcssilva">
+  <img height="220em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alexcssilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="220em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alexcssilva&layout=compact&langs_count=15&theme=dark"/>
 </div>
 
 <br>
