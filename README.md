@@ -30,8 +30,8 @@
 
  <div style="display: inline" align="center">
   <a href="https://github.com/alexcssilva">
-  <img height="220em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alexcssilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="220em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alexcssilva&layout=compact&langs_count=15&theme=dark"/>
+  <img height="230em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alexcssilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="230em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alexcssilva&layout=compact&langs_count=20&theme=dark"/>
 </div>
 
 <br>
