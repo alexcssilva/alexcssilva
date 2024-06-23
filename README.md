@@ -26,8 +26,6 @@
  - 👶🏻 35 anos
 
  - Como Desenvolvedor Full Stack resiliente e adaptável, com ampla experiência na Blue Project, contribuo para o desenvolvimento de um portal de benefícios para colaboradores globais do banco HSBC. Minha função envolve a utilização de tecnologias de ponta como React, TypeScript e Styled Components, garantindo que a aplicação atenda às Diretrizes de Acessibilidade para Conteúdo Web (WCAG) para proporcionar uma experiência inclusiva a todos os usuários. Tenho excelência tanto em habilidades técnicas quanto em soft skills, incluindo resolução de problemas, comunicação eficaz e trabalho em equipe.
-
-Tenho uma sólida formação em ciência da computação, adquirida através dos meus estudos, apesar de não ter concluído a graduação. Estou comprometido com o aprendizado contínuo e o desenvolvimento pessoal, mantendo-me atualizado com as tecnologias mais recentes e as melhores práticas da indústria. Sou apaixonado por criar experiências web envolventes e impactantes. Entusiasmado com as oportunidades futuras de colaborar em projetos inovadores, estou sempre aberto a novas conexões na indústria de tecnologia.
 <br>
 
 <!-- DIAGNÓSTICO - DARK-->
