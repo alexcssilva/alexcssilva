@@ -22,7 +22,6 @@
 <br>
 
  - 📍 SP/São Paulo 🇧🇷
- - 📚 Formado em Desenvolvimento Full Stack na escola <a href="https://www.betrybe.com/">**Trybe**</a>
  - 👶🏻 35 anos
 
  - Como Desenvolvedor Full Stack resiliente e adaptável, com ampla experiência na Blue Project, contribuo para o desenvolvimento de um portal de benefícios para colaboradores globais do banco HSBC. Minha função envolve a utilização de tecnologias de ponta como React, TypeScript e Styled Components, garantindo que a aplicação atenda às Diretrizes de Acessibilidade para Conteúdo Web (WCAG) para proporcionar uma experiência inclusiva a todos os usuários. Tenho excelência tanto em habilidades técnicas quanto em soft skills, incluindo resolução de problemas, comunicação eficaz e trabalho em equipe.
